@@ -1,0 +1,20 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistics
+scipy
+statsmodels
+
+# Machine Learning
+scikit-learn
+
+# Jupyter & Development
+jupyter
+notebook
+ipython
+
